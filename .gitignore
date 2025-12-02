@@ -1,0 +1,22 @@
+# Binaries
+aoc-runner
+main
+
+# Go
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# OS
+.DS_Store
+
+# Large input files (optional - comment out if you want to commit them)
+inputs/*.txt
